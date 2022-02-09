@@ -1,4 +1,4 @@
-# Vaishnavi_DATA-606 CAPSTONE
+# DATA-606 CAPSTONE PROJECT
 ### LOAN DEFAULT PREDICTION
 - What is your issue of interest (provide sufficient background information)?
 - Why is this issue important to you and/or to others?
