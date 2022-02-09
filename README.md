@@ -10,25 +10,25 @@ Loan lending has been an important part of daily lives for organizations and ind
 
  We want to help the lenders or banking institutions to evaluate their customer and predict the  
  
-- Where do you get the data to analyze and help answer your questions (creditability of source, quality of data, size of data, attributes of data. etc.)?
+# Where do you get the data to analyze and help answer your questions (creditability of source, quality of data, size of data, attributes of data. etc.)?
 
-- What will be your unit of analysis (for example, patient, organization, or country)? Roughly how many units (observations) do you expect to analyze?
+# What will be your unit of analysis (for example, patient, organization, or country)? Roughly how many units (observations) do you expect to analyze?
 
  Banking customer, rows count.
  
-- What variables/measures do you plan to use in vour analysis (variables should be tied to the questions in #3)?
+# What variables/measures do you plan to use in vour analysis (variables should be tied to the questions in #3)?
 
 Loan status
 
-- What kinds of techniques/models do you plan to use (for example, clustering, NLP, ARIMA, etc.)?
+# What kinds of techniques/models do you plan to use (for example, clustering, NLP, ARIMA, etc.)?
 
 Random Forest with Randomized search CV, Logistic Regression with Grid search CV, Support Vector Machine with Grid search CV, K Nearest Neighbors with Grid search CV, Bagging with Base estimator as Random Forest, Bagging with Base estimator as Logistic Regression, AdaBoost Classifier, MultilLayer Perceptron Classifier.
 
-- How do you plan to develop/apply ML and how you evaluate/compare the performance of the models?
+# How do you plan to develop/apply ML and how you evaluate/compare the performance of the models?
 
 we are planning to evaluate the metrics such as recall, accuracy, precision, f-1 score, confusion matrix, ROC-AUC scores. After detriming the metric to evaluate the model with the help of the business understaing of the domain of the data, we'll figure out the ways to imporve the performance of the model.
 
-- What outcomes do you intend to achieve (better understanding of problems, tools to help solve problems, predictive analytics with practicle applications, etc)?
+# What outcomes do you intend to achieve (better understanding of problems, tools to help solve problems, predictive analytics with practicle applications, etc)?
 
 Importnace of business domain understanding in chossing and evaluating the model.
 To apply various machine learning models to classify the outcome.
