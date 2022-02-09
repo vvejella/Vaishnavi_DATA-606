@@ -12,9 +12,16 @@ Loan lending has been an important part of daily lives for organizations and ind
  
 > Where do you get the data to analyze and help answer your questions (creditability of source, quality of data, size of data, attributes of data. etc.)?
 
+We found the dataset from Kaggle. The size of dataset is 28MB which contains 34 columns namely ID, year, loan_limit, gender, approv_in_adv, loan_type, loan_purpose, Credit_Worthiness, open_credit, business_or_commercial, loan_amount, rate_of_interest, Interest_rate_spread, Upfront_charges, term, Neg_ammortization means 
+Negotiative ammortization, interest_only, lump_sum_payment, property_value, construction_type, occupancy_type, Secured_by, total_units, income, credit_type, credit_score, 
+co-applicant_credit_type, age, submission_of_application, LTV, region, Security_Type, status, dtir_1.
+Data source- https://www.kaggle.com/yasserh/loan-default-dataset
+
+
 > What will be your unit of analysis (for example, patient, organization, or country)? Roughly how many units (observations) do you expect to analyze?
 
- Banking customer, rows count.
+ Banking customer is the unit of analysis.
+ We want to analyze about 148671 observations.
  
 > What variables/measures do you plan to use in vour analysis (variables should be tied to the questions in #3)?
 
