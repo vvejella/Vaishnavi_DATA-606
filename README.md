@@ -1,6 +1,6 @@
-# Vaishnavi_DATA-606
+# Vaishnavi_DATA-606 CAPSTONE
 ### LOAN DEFAULT PREDICTION
-* What is your issue of interest (provide sufficient background information)?
+- What is your issue of interest (provide sufficient background information)?
 - Why is this issue important to you and/or to others?
 - What questions do you have in mind and would like to answer?
 - Where do you get the data to analyze and help answer your questions (creditability of source, quality of data, size of data, attributes of data. etc.)?
