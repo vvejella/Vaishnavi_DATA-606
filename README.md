@@ -1,12 +1,12 @@
 # DATA-606 CAPSTONE PROJECT
 ### LOAN DEFAULT PREDICTION
-- What is your issue of interest (provide sufficient background information)?
+# What is your issue of interest (provide sufficient background information)?
 
 Loan lending has been an important part of daily lives for organizations and individuals alike. With the ever-increasing competition in the financial world and due to a significant amount of financial constraints, the activity of taking a loan has become more or less inevitable. Individuals around the world depend on the activity of loan lending for reasons such as overcoming their financial constraints in order for them to achieve some personal goals. Similarly, banks, small to large firms depend on the activity of loan lending for the basic purpose of managing their affairs and to function smoothly in times where there are financial constraints.
 
-- Why is this issue important to you and/or to others?
+# Why is this issue important to you and/or to others?
 
-- What questions do you have in mind and would like to answer?
+# What questions do you have in mind and would like to answer?
 
  We want to help the lenders or banking institutions to evaluate their customer and predict the  
  
